@@ -1,0 +1,6 @@
+[submodule "src/blast2gff"]
+	path = src/blast2gff
+	url = http://github.com/guigolab/blast2gff
+[submodule "src/geneid"]
+	path = src/geneid
+	url = http://github.com/guigolab/geneid
